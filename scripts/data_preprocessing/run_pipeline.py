@@ -25,5 +25,5 @@ def run_pipeline(playlist_url):
         transcribe_audio(audio_path)
 
 if __name__ == "__main__":
-    playlist_url = "https://www.youtube.com/playlist?list=PL1n30s-LKus5uOY2xbRjAx_wPHnKvy_aW"
+    playlist_url = "https://www.youtube.com/playlist?list"
     run_pipeline(playlist_url)

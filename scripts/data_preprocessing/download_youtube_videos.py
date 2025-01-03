@@ -17,5 +17,5 @@ def download_playlist(playlist_url, output_dir="data/raw_videos"):
         download_video(video_url, output_dir)
 
 if __name__ == "__main__":
-    playlist_url = "https://www.youtube.com/playlist?list=PL1n30s-LKus5uOY2xbRjAx_wPHnKvy_aW"
+    playlist_url = "https://www.youtube.com/playlist?list"
     download_playlist(playlist_url)

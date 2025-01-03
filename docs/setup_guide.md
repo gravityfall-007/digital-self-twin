@@ -1,8 +1,3 @@
-
----
-
-### **docs/setup_guide.md**
-```markdown
 # Setup Guide
 
 This guide provides step-by-step instructions for setting up the **Digital Self Avatar** project locally.
